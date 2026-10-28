@@ -28,7 +28,7 @@ The thesis comprises three interconnected research chapters:
 | [Supplementary Table S4](Supplementary_Table_S4.xlsx) | 1 | Binary presence–absence matrix for 205 virulence-associated genes in 1,884 genomes, with isolate, host and ST metadata. |
 | [Supplementary Table S5](Supplementary%20Table%20S5.xlsx) | 2 | Isolate IDs, collection years, STs and countries of origin for 358 rabbit-associated isolates. |
 | [Supplementary Table S6](Supplementary%20Table%20S6.xlsx) | 2 | Oligonucleotide primer sequences and purposes for construction and PCR-based screening of Δbbp and Δegc mutants. |
-| [Supplementary Table S7](Supplementary%20Table%20S7.xlsx) | 3 | Intended CC121 isolate metadata for 196 ST121/ST3764 genomes. **The currently supplied S7 spreadsheet must be replaced before release; it duplicates S5.** |
+| [Supplementary Table S7](Supplementary%20Table%20S7.xlsx) | 3 | Intended CC121 isolate metadata for 196 ST121/ST3764 genomes. |
 | [Supplementary Table S8](Supplementary%20Table%20S8.xlsx) | 3 | Oligonucleotide primers used for construction and PCR screening of prophage PR deletion mutants. |
 
 ## Supplementary figures
